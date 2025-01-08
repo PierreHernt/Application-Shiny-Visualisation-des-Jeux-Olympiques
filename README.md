@@ -13,9 +13,6 @@ Cette application Shiny a été développée pour visualiser des données sur le
 ## Utilisation
 
 1. Installez les packages R nécessaires :
-   ```R
-   install.packages(c("shiny", "ggplot2", "plotly", "DT", "reactable"))
-   ```
 
 2. Lancez l'application depuis R :
    ```R
